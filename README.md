@@ -1,4 +1,2 @@
 # E-BileteAvion
-Prentru acest proiect am folosit:
-xampp - pentru pastrarea datelor
-mysql-connector - conectarea programului cu datele
+Pentru partea de data base am folosit xampp
